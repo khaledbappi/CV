@@ -1,0 +1,66 @@
+
+.top-container{
+  background-repeat: no-repeat, repeat;
+  background-image: url(https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500), url(https://img.freepik.com/free-photo/room-with-concrete-floor-smoke-background_9083-2991.jpg?size=626&ext=jpg);
+  background-blend-mode: overlay;
+  background background-blend-mode: overlay;
+  background-color: #03cffc;
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 80px;
+}
+.top-cloud{
+  height: 150px;
+  position: absolute;
+  right: 300px;
+  top: 30px
+}
+.bottom-cloud{
+  height: 200px;
+  position:absolute;
+  left: 250px;
+  bottom: 20px;
+}
+body{
+  margin: 0;
+  text-align: center;
+}
+.name{
+  color: #e68415;
+  font-weight: 900;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+}
+p{
+  color: #000000;
+  font-weight: 500;
+  font-size: 2rem;
+}
+.education-head{
+  color: #fcba03;
+  text-align: center;
+}
+.profile-picture{
+  border-radius: 50%;
+  height: 400px;
+  width: 400px;
+}
+.education{
+  width:50%;
+  margin: auto;
+}
+.education-logo{
+text-align: center;
+}
+.edu-para{
+  line-height: 2;
+  text-align: left;
+}
+.get-in-touch{
+  text-align: center;
+  color: #fcba03;
+  font-weight: bold;
+}
+.facebook-link{
+  font-size: 100px;
+}
